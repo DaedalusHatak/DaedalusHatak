@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DaedalusHatak
 - 👀 I’m interested in gaming, programming, asian culture
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development and vue
+
+
+Http://ww.pawel-kicinski.pl
+
 
 <!---
 DaedalusHatak/DaedalusHatak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
