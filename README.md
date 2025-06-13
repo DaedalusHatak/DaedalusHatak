@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and vue
 
 
-Https://www.pawel-kicinski.com
+Https://www.pawel-kicinski.pl
 
 
 <!---
